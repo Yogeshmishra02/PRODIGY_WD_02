@@ -50,4 +50,4 @@ If you have any feedback or suggestions, feel free to connect:
 ---
 
 📁 Part of Internship
-This project is part of the PRODIGY INFOTECH Web Development Internship – Task 3.
+This project is part of the PRODIGY INFOTECH Web Development Internship – Task 2.
