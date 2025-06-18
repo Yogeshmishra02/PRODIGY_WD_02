@@ -30,7 +30,7 @@ This project demonstrates how to create a responsive, interactive stopwatch that
 - Building responsive layouts with CSS
 
 ## 📲 Live Demo
-[🔗 Click here to view live](#) *(Add your GitHub Pages link or Netlify/Render if deployed)*
+[🔗 Click here to view live](#) *((https://yogeshmishra02.github.io/PRODIGY_WD_02/))*
 
 ## 📬 Contact
 If you have any feedback or suggestions, feel free to connect:
