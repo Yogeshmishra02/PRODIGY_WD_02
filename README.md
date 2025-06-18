@@ -36,6 +36,6 @@ This project demonstrates how to create a responsive, interactive stopwatch that
 If you have any feedback or suggestions, feel free to connect:
 
 - 📧 Email: yogeshmishra6000@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yogesh-mishra-a1a32a29b/])  
+- 💼 [LinkedIn](([https://www.linkedin.com/in/yogesh-mishra-a1a32a29b/])  
 
 🌟 **Don't forget to ⭐ star the repo if you liked it!**
