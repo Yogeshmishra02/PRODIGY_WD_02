@@ -36,7 +36,7 @@ This project demonstrates how to create a responsive, interactive stopwatch that
 - Event handling and button controls
 - Building responsive layouts with CSS
 
---
+---
 
 ## 📲 Live Demo
 [🔗 Click here to view live](#) *((https://yogeshmishra02.github.io/PRODIGY_WD_02/))*
